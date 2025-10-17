@@ -26,5 +26,5 @@ You can view each task directly from your browser using the following links:
 If you want to open these files on your own computer:
 1. Download the repository as a ZIP file or clone it:
    ```bash
-   git clone https://github.com/yourusername/web-tasks.git
+   git clone https://github.com/nithinsidealogy/codezilla-recruitment.git
 
